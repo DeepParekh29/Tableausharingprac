@@ -1,0 +1,3 @@
+# Tableausharingprac
+
+In this I tried to upload Tableau workbook to GitHub , but not working well...I need to figure out another method to upload because This type of file is not just simple to upload as it seems...
